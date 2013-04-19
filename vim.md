@@ -1,7 +1,7 @@
 * splitの高さ変更
 
-        Ctrl + +
-        Ctrl + -
+        Ctrl + w +
+        Ctrl + w -
 
 * vsplitの幅変更
 
